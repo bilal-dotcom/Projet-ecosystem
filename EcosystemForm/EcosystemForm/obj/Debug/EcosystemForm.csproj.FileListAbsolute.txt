@@ -1,0 +1,12 @@
+C:\Users\fikar\source\repos\Session 2\Ecosystem\EcosystemForm\EcosystemForm\bin\Debug\EcosystemForm.exe.config
+C:\Users\fikar\source\repos\Session 2\Ecosystem\EcosystemForm\EcosystemForm\bin\Debug\EcosystemForm.exe
+C:\Users\fikar\source\repos\Session 2\Ecosystem\EcosystemForm\EcosystemForm\bin\Debug\EcosystemForm.pdb
+C:\Users\fikar\source\repos\Session 2\Ecosystem\EcosystemForm\EcosystemForm\obj\Debug\EcosystemForm.csprojAssemblyReference.cache
+C:\Users\fikar\source\repos\Session 2\Ecosystem\EcosystemForm\EcosystemForm\obj\Debug\EcosystemForm.Properties.Resources.resources
+C:\Users\fikar\source\repos\Session 2\Ecosystem\EcosystemForm\EcosystemForm\obj\Debug\EcosystemForm.csproj.GenerateResource.cache
+C:\Users\fikar\source\repos\Session 2\Ecosystem\EcosystemForm\EcosystemForm\obj\Debug\EcosystemForm.exe
+C:\Users\fikar\source\repos\Session 2\Ecosystem\EcosystemForm\EcosystemForm\obj\Debug\EcosystemForm.pdb
+C:\Users\fikar\source\repos\Session 2\Ecosystem\EcosystemForm\EcosystemForm\obj\Debug\EcosystemForm.Ecosystem.resources
+C:\Users\fikar\source\repos\Session 2\Ecosystem\EcosystemForm\EcosystemForm\obj\Debug\EcosystemForm.csproj.CopyComplete
+C:\Users\fikar\source\repos\Session 2\Ecosystem\EcosystemForm\EcosystemForm\bin\Debug\UserControlLapin.dll
+C:\Users\fikar\source\repos\Session 2\Ecosystem\EcosystemForm\EcosystemForm\bin\Debug\UserControlLapin.pdb

@@ -1,0 +1,9 @@
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlCarotte\UserControlCarotte\bin\Debug\UserControlCarotte.dll
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlCarotte\UserControlCarotte\bin\Debug\UserControlCarotte.pdb
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlCarotte\UserControlCarotte\obj\Debug\UserControlCarotte.csprojAssemblyReference.cache
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlCarotte\UserControlCarotte\obj\Debug\UserControlCarotte.Properties.Resources.resources
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlCarotte\UserControlCarotte\obj\Debug\UserControlCarotte.UserControlCarotte.resources
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlCarotte\UserControlCarotte\obj\Debug\UserControlCarotte.csproj.GenerateResource.cache
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlCarotte\UserControlCarotte\obj\Debug\UserControlCarotte.csproj.CoreCompileInputs.cache
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlCarotte\UserControlCarotte\obj\Debug\UserControlCarotte.dll
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlCarotte\UserControlCarotte\obj\Debug\UserControlCarotte.pdb

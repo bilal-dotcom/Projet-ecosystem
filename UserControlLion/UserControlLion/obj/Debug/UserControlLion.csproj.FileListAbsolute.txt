@@ -1,0 +1,9 @@
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlLion\UserControlLion\bin\Debug\UserControlLion.dll
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlLion\UserControlLion\bin\Debug\UserControlLion.pdb
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlLion\UserControlLion\obj\Debug\UserControlLion.csprojAssemblyReference.cache
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlLion\UserControlLion\obj\Debug\UserControlLion.Properties.Resources.resources
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlLion\UserControlLion\obj\Debug\UserControlLion.csproj.GenerateResource.cache
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlLion\UserControlLion\obj\Debug\UserControlLion.csproj.CoreCompileInputs.cache
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlLion\UserControlLion\obj\Debug\UserControlLion.dll
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlLion\UserControlLion\obj\Debug\UserControlLion.pdb
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlLion\UserControlLion\obj\Debug\UserControlLion.UserControl1.resources

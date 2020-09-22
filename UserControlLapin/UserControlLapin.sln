@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserControlLapin", "UserControlLapin\UserControlLapin.csproj", "{8C72A926-7C57-4923-AE08-D57CC310F609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C72A926-7C57-4923-AE08-D57CC310F609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C72A926-7C57-4923-AE08-D57CC310F609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C72A926-7C57-4923-AE08-D57CC310F609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C72A926-7C57-4923-AE08-D57CC310F609}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D256ECCB-B846-47DE-A946-A3E2D33AB318}
+	EndGlobalSection
+EndGlobal

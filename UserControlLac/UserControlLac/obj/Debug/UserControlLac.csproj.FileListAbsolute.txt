@@ -1,0 +1,8 @@
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlLac\UserControlLac\bin\Debug\UserControlLac.dll
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlLac\UserControlLac\bin\Debug\UserControlLac.pdb
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlLac\UserControlLac\obj\Debug\UserControlLac.csprojAssemblyReference.cache
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlLac\UserControlLac\obj\Debug\UserControlLac.UserControlLac.resources
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlLac\UserControlLac\obj\Debug\UserControlLac.csproj.GenerateResource.cache
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlLac\UserControlLac\obj\Debug\UserControlLac.csproj.CoreCompileInputs.cache
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlLac\UserControlLac\obj\Debug\UserControlLac.dll
+C:\Users\fikar\source\repos\Session 2\Ecosystem\UserControlLac\UserControlLac\obj\Debug\UserControlLac.pdb
